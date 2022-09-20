@@ -1,0 +1,5 @@
+# ninja log v5
+1	2031	1663649077498836208	CMakeFiles/random_numbers.dir/main.cpp.o	784673ce5f3eb442
+2031	2175	1663649077646842966	random_numbers	ac3fb0639d8b4cf0
+1	2346	1663649135353517136	CMakeFiles/random_numbers.dir/main.cpp.o	ead5354ac978a258
+2346	2506	1663649135513524651	random_numbers	ac3fb0639d8b4cf0
