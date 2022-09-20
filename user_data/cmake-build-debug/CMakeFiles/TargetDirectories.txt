@@ -1,0 +1,3 @@
+/home/afernandez/Escritorio/sciplot-examples-cpp/user_data/cmake-build-debug/CMakeFiles/user_data.dir
+/home/afernandez/Escritorio/sciplot-examples-cpp/user_data/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/afernandez/Escritorio/sciplot-examples-cpp/user_data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
